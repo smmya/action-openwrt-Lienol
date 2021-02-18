@@ -1,8 +1,7 @@
-# Actions-OpenWrt
+## 说明
+- 本编译方案基于 P3TERX/Actions-OpenWrt 
+- 此存储库可以进行新路由器3的云编译，使用Lienol的源码，并勾选了可满足日常使用的插件，如需体验，请前往actions获取编译镜像
 
-[![LICENSE](https://img.shields.io/github/license/mashape/apistatus.svg?style=flat-square&label=LICENSE)](https://github.com/P3TERX/Actions-OpenWrt/blob/master/LICENSE)
-![GitHub Stars](https://img.shields.io/github/stars/P3TERX/Actions-OpenWrt.svg?style=flat-square&label=Stars&logo=github)
-![GitHub Forks](https://img.shields.io/github/forks/P3TERX/Actions-OpenWrt.svg?style=flat-square&label=Forks&logo=github)
 
 Build OpenWrt using GitHub Actions
 
